@@ -1,2 +1,2 @@
 # go-web-socket
-wob socket with go using echo framework
+web socket with go using Echo Framework
